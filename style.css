@@ -1,0 +1,23 @@
+h1{
+    color: lightcoral;
+    border: 10px solid dimgray;
+    background-color: #ff0000;
+}
+
+body{
+    background-color: deepskyblue;
+}
+
+p{
+    font-family: cosmic sans ms;
+    font-weight: 200;
+}
+
+img{
+    border: 5px solid black;
+    border-radius: 40px;
+}
+
+ol,ul{
+    font-family: 'Times New Roman';
+}
